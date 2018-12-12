@@ -2,7 +2,7 @@
 
 ### 完成イメージ
 
-<img width="300" alt="完成イメージ" src="https://user-images.githubusercontent.com/29940583/49847273-9eaffc00-fe12-11e8-800b-004accff032d.png">
+<img width="300" alt="完成イメージ" src="https://user-images.githubusercontent.com/29940583/49847273-9eaffc00-fe12-11e8-800b-004accff032d.png">
 
 
 ### 下にスワイプするとspinnerが出て最新記事を更新
